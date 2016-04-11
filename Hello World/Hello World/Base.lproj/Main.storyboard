@@ -19,6 +19,8 @@
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="x5f-Pk-Hyz">
                                 <rect key="frame" x="120" y="269" width="80" height="30"/>
+                                <color key="backgroundColor" red="1" green="0.32051120630000002" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="Hello World"/>
                                 <connections>
                                     <action selector="helloWorld" destination="BYZ-38-t0r" eventType="touchUpInside" id="dKL-u4-LLA"/>
